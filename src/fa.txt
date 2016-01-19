@@ -1,0 +1,5 @@
+S A B K
+0 1
+S
+K S
+A,1=A A,0=B B,0=B B,0=K S,0=A S,1=B
